@@ -1,9 +1,11 @@
+[한국어](README.kr.md)
+
 # Youtube statistics
 You can get any youtube channel statistics with this code.
 ## What you need
 - Youtube API key
     - Reference in Korean: https://brunch.co.kr/@mystoryg/156
-- write these codes in terminal to download required modules
+- write these codes in terminal to download modules
 
     - (required) to use google api
 
