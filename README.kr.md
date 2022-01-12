@@ -2,9 +2,11 @@
 
 # 유튜브 통계자료
 코드를 실행하면 유튜브 채널의 통계를 받아올 수 있습니다.
+
 ## 필요한것
 - Youtube API key
     - 한국어 참고자료: https://brunch.co.kr/@mystoryg/156
+    - 영어 참고자료: https://blog.hubspot.com/website/how-to-get-youtube-api-key
 - 필요한 모듈을 다운로드하기 위해 아래 코드를 터미널에 입력하세요.
 
     - (필수) 구글 API 다운로드 위한 코드

@@ -2,8 +2,10 @@
 
 # Youtube statistics
 You can get any youtube channel statistics with this code.
+
 ## What you need
 - Youtube API key
+    - Reference in English: https://blog.hubspot.com/website/how-to-get-youtube-api-key
     - Reference in Korean: https://brunch.co.kr/@mystoryg/156
 - write these codes in terminal to download modules
 

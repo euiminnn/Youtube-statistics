@@ -34,7 +34,6 @@ for i in playlists['items'] :
 df=pd.DataFrame([ids, titles]).T
 df.columns=['PlayLists', 'Titles']
 
-#print(df)
 
 num=int(input())
 playlist_selected=df['PlayLists'][num]
@@ -55,8 +54,6 @@ for v in playlistitems_list_response['items'] :
     date.append(v['snippet']['publishedAt'])
 vdf = pd.DataFrame([date, video_names, video_ids]).T
 vdf.columns = ['Date', 'Title', 'IDS']
-
-#print(vdf)
 
 import re
 category_id = []
@@ -94,6 +91,5 @@ sdf = pd.DataFrame([title, category_id, views, likes, comments]).T
 sdf.columns = ['Title', 'Category_id', 'Views', 'Likes', 'Comments']
 
 from tabulate import tabulate
-#print(tabulate(df, headers='keys', tablefmt='psql'))
-#print(tabulate(vdf, headers='keys', tablefmt='psql'))
+
 print(tabulate(sdf, headers='keys', tablefmt='psql'))
