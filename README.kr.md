@@ -18,8 +18,8 @@
         `pip install tabulate`
 
 ## 사용방법
-1. 발급받은 API key를 statistics_withoutAPI.py 파일의 5번째 라인에 위치한 "PUTAPIKEYHERE" 에 넣어주세요.
-2. 통계자료를 받고싶은 유튜브 채널 명을 statistics_withoutAPI.py 파일의 11번째 라인에 위치한 "PUTCHANNELNAMEHERE" 에 넣어주세요.
+1. 발급받은 API key를 statistics_withoutAPI.py 파일의 3번째 라인에 위치한 "PUTAPIKEYHERE" 에 넣어주세요.
+2. 통계자료를 받고싶은 유튜브 채널 명을 statistics_withoutAPI.py 파일의 10번째 라인에 위치한 "PUTCHANNELNAMEHERE" 에 넣어주세요.
 3. 터미널에 가서 `python statistics_withoutAPI.py` 를 실행해주세요. 
 4. 플레이리스트의 인덱스를 입력하세요.
     - 첫 번째 인덱스는 0이며, 그 다음 인덱스는 1, 2, 3으로 오름차순입니다.

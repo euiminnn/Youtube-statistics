@@ -18,8 +18,8 @@ You can get any youtube channel statistics with this code.
         `pip install tabulate`
 
 ## How to use
-1. Put your API key in "PUTAPIKEYHERE" in line 5 of statistics_withoutAPI.py
-2. Put the channel name you want to get statistics from in "PUTCHANNELNAMEHERE" in line 11 of statistics_withoutAPI.py
+1. Put your API key in "PUTAPIKEYHERE" in line 3 of statistics_withoutAPI.py
+2. Put the channel name you want to get statistics from in "PUTCHANNELNAMEHERE" in line 10 of statistics_withoutAPI.py
 3. Go to Terminal and run `python statistics_withoutAPI.py`
 4. Input index number of playlists of channel (first playlist of the channel would be 0 and others are in ascending order)
 
