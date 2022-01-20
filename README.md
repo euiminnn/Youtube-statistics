@@ -7,15 +7,11 @@ You can get any youtube channel statistics with this code.
 - Youtube API key
     - Reference in English: https://blog.hubspot.com/website/how-to-get-youtube-api-key
     - Reference in Korean: https://brunch.co.kr/@mystoryg/156
-- write these codes in terminal to download modules
+- write these commands in terminal to download modules
 
     - (required) to use google api
 
         `pip install --upgrade google-api-python-client`
-
-        `pip install --upgrade google-auth google-auth-oauthlib google-auth-httplib2`
-
-        `pip install --upgrade oauth2client`
 
     - (not required) to make your DataFrame look good
 

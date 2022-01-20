@@ -9,15 +9,11 @@
     - 영어 참고자료: https://blog.hubspot.com/website/how-to-get-youtube-api-key
 - 필요한 모듈을 다운로드하기 위해 아래 코드를 터미널에 입력하세요.
 
-    - (필수) 구글 API 다운로드 위한 코드
+    - (필수) 구글 API 다운로드 위한 명령어
 
         `pip install --upgrade google-api-python-client`
 
-        `pip install --upgrade google-auth google-auth-oauthlib google-auth-httplib2`
-
-        `pip install --upgrade oauth2client`
-
-    - (옵션) 출력을 예쁘게 하기 위한 코드
+    - (옵션) 출력을 예쁘게 하기 위한 명령어
 
         `pip install tabulate`
 
